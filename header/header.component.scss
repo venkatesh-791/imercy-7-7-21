@@ -1,0 +1,487 @@
+// .headerWrapper {
+//     height: 64px;
+//     width: 100%;
+//   }
+  
+//   .header {
+//     position: fixed;
+//     top: 0;
+//   }
+  
+//   .scrollWrapper {
+//     overflow: auto;
+//     height: 300px;
+//   }
+  
+//   .scrollContent {
+//     min-height: 1000px;
+//   }
+
+//   .bottom {
+//     background: white ;
+//   }
+
+
+// body {
+//     font-family: soleil, sans-serif;
+//     font-size: 100%;
+//     font-weight: 100;
+//     line-height: 1.45em;
+//     background-color:whitesmoke;
+
+// }
+// .simple-banner-text{
+//     opacity: 1;
+//     background: #fff !important;
+//     background-position: center center;
+//     background-size: cover !important;
+//     background-repeat: no-repeat;
+//     padding: 1em;
+//     color: #0c233d !important;
+//     width: 100%;
+//     height: auto;
+//     text-align: center;
+//     z-index: 99999;
+//     position: relative;
+//     display: block;
+// }
+//  .align-middle{
+//     align-items: center;
+// } 
+// .simple-banner-text img{
+//     max-width: 270px;
+//     position: relative;
+//     height: auto;
+// }
+// .cont{
+//     font-weight: 600;
+//     font-size: 16px;
+//     position: relative;
+//     margin: 0 0px;
+//     display: block;
+// }
+// .link{
+//     font-weight: 600;
+//     color: #9e93dd ;
+//     text-decoration: none;
+// }
+// .link:hover{
+//     font-weight: 600;
+//     color: #9e93dd;
+//     text-decoration:none;
+// }
+
+
+
+// .fixed-top{
+// position: fixed;
+// justify-content: center;
+// top: 0;
+// padding: 8px 30px;
+// background-color: rgba(255,255,255, 1);
+// box-shadow: 0 0 30px 0 rgb(145 174 203 / 30%);
+// }
+// .logo{
+// width: 100%;
+// max-width: 150px;
+// float: left;
+// margin-top: 4px;
+// position: relative;
+// right: 20px;
+// padding-top: 26px;
+
+// }
+// @media only screen and (max-width: 720px){
+// .logo {
+//     max-width: 100px;
+// height: auto;
+// position: relative;
+// right: 32px;
+// }
+// }
+
+// .navbar-light .navbar-nav .nav-link {
+// color: #333333;
+// font-size: 16px;
+// }
+
+
+// .navbar-light .navbar-nav .nav-link:hover{
+// font-size: 16px;
+// font-weight: bold;
+// color: #9e93dd;
+
+// }
+// @media only screen and (max-width: 1024px){
+// .navbar-light .navbar-nav .nav-link {
+//     color: #333333;
+//     font-size: 11px;
+//     font-weight: bold;
+// }
+// }
+// .demo{
+// font-size: 16px;
+// font-family: sans-serif;
+// color: #f67a71; 
+// border: 2px solid #f67a71;
+// border-radius: 4px;
+// text-decoration: none;
+// }
+// .next{
+// margin: 0 0 0 12px;
+// font-size: 16px;
+// color: #fff;
+// font-family: sans-serif;
+// background: linear-gradient(to left, #df9dba 15%, #9e93dd 75%);
+
+
+// border-radius: 100px;
+// }
+
+
+// .header-cont{
+// top: 0;
+// justify-content: center;
+// padding: 8px 0px;
+
+// background-size: cover;
+
+// }
+// .header-cont .navbar-nav .nav-link {
+// font-size: 16px;
+// font-weight:normal;
+// color: black;
+//  margin-right: 6px; 
+// }
+// .header-cont .navbar-nav .nav-link :hover{
+// font-size: 16px;
+// font-weight: bold;
+// color: #9e93dd;
+// cursor: pointer; 
+// }
+
+// @media only screen and (max-width: 1024px){
+// .header-cont .navbar-nav .nav-link {
+//     // color: tomato;
+//     font-size: 11px;
+//     font-weight: normal;
+// }
+// }
+
+
+// .active{
+//      color: #f67a71 !important;
+//       //  border-bottom: 1px solid tomato;
+//   }
+// .head:hover{
+//     cursor: pointer !important;
+//     color:  #9e93dd!important;
+// }
+
+// .hovered {
+//   color: black !important;
+  
+// }
+
+// .hovered:hover {
+//   cursor: pointer !important;
+//    color: tomato!important;
+// }
+// @media (max-width: 991px) {
+//   .show{
+//     height: 100vh !important;
+//     transition: height 1s;
+//   }
+// }
+
+// .isActive{
+//   color: tomato !important;
+// }
+
+// @media (max-width: 768px) {
+
+//   .navbar-light .navbar-nav .nav-link {
+//     color: #333333;
+//     font-size: 16px;
+//     }
+    
+    
+//     .navbar-light .navbar-nav .nav-link:hover{
+//     font-size: 16px;
+//     font-weight: bold;
+//     color: tomato;
+    
+//     }
+//     .fixed-top{
+//       position: fixed;
+//       justify-content: center;
+//       top: 0;
+//       padding: 8px 30px;
+//       background-color: rgba(255,255,255, 1);
+//       box-shadow: 0 0 30px 0 rgb(145 174 203 / 30%);
+//       }
+//       .header-cont{
+//         top: 0;
+//         justify-content: center;
+//         padding: 8px 30px;
+
+//         background-size: cover;
+//         background: #fff !important;
+        
+//         }
+//         .header-cont .navbar-nav .nav-link {
+//         font-size: 16px;
+//         font-weight:normal;
+//         color: black;
+//          margin-right: 6px; 
+//         }
+//         .header-cont .navbar-nav .nav-link :hover{
+//         font-size: 16px;
+//         font-weight: bold;
+//         color: tomato;
+//         cursor: pointer; 
+//         }
+        
+// }
+
+// @media (max-width: 768px) {
+//   .header-cont .navbar-nav .nav-link {
+//     font-size: 16px;
+//     font-weight:normal;
+//     color: black;
+//      margin-right: 6px; 
+//     }
+//     .header-cont .navbar-nav .nav-link :hover{
+//     font-size: 16px;
+//     font-weight: bold;
+//     color: tomato;
+//     cursor: pointer; 
+//     }
+
+// }
+// .top{
+//     color:blue;
+// }
+
+// .imggs{
+//   align-items: center;
+//   justify-content: center;
+// }
+
+// .hed{
+//   justify-content: space-between;
+// }
+
+// .headjust{
+//   justify-content: center;
+//   align-items: center;
+// }
+
+// .kh{
+//   justify-content: center;
+//   align-items: left;
+
+// }
+// .bars{
+//   justify-content: space-between;
+//   display: flex
+// }
+// #bar{
+//   display: none;
+// }
+
+
+
+
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+nav{
+ width: 100%;
+ height: 85px;
+ background-color: white;
+ box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+
+//  background: linear-gradient(to bottom right,rgba(34, 7, 70, 0.92),rgba(0,91,151,0.92)),url(../../assets/bg.svg);
+ top: 0;
+ position: fixed;   
+ line-height: 75px;
+ padding: 0px 150px;
+}
+.logo{
+ width: 170px;
+ justify-content: center;
+ align-items: center;
+ margin-top: 6px;
+ padding: 0;
+//  margin-left: 37px;
+
+
+
+}
+
+nav .logo{
+ float: left;
+}
+
+nav .logo p{
+ font-size: 34px;
+ font-weight: bold;
+ letter-spacing: 1.5px;
+ color: red;
+ text-transform: uppercase;
+}
+
+nav ul{
+ // float: right;
+ float: center;
+ text-align: center;
+}
+nav ul li{
+ list-style: none;
+ display: inline-block;
+}
+nav ul li a{
+ text-decoration: none;
+ color: beige;
+ font-size: 18px;
+ text-transform: uppercase;
+ padding: 0px 20px; 
+}
+
+nav ul li a:hover{
+ color: yellow ;
+}
+
+nav ul li :visited{
+ color: #F5DF4D!important;
+}
+
+nav ul .active{
+ color: red;
+} 
+
+.checkbtn{
+ color: white;
+ font-size: 25px;
+ width: 25px;
+ cursor: pointer;
+ float: right;
+ display: none;
+}
+
+#check{
+ display: none;
+}
+
+.flo{
+ float: right;
+ margin-top: 5px;
+
+}
+
+@media  screen and (max-width: 1024px) {
+ nav{
+     padding: 0px 38px;
+
+ } 
+ .checkbtn{
+     display: block;
+ }
+ nav .logo p{
+     font-size: 30px;
+ }
+ nav ul {
+     width: 100%;
+     height: 100vh;
+     background-color: whitesmoke;
+     position: fixed;
+     top: 75px;
+     left: -100%;
+     text-align: center;
+     transition: 0.4s ease;
+ }
+ nav ul li{
+     display: block;
+     margin: 25px 0px;
+     line-height: 20px;
+ }
+ .flo{
+    float: none;}    
+
+    
+ 
+}
+
+
+#check:checked ~ ul{
+ left: 0px;
+}
+
+
+
+.second-img{
+ width: 100%;
+ height: 80vh;
+}
+
+
+.twopoint{
+ font-size: 130px;
+ text-align: center;
+ align-items: center;
+ background-color: black;
+ color: yellow;
+}
+
+.img-bg{
+ background-color: green;
+ width: 100%;
+ height: 50%vh
+}
+
+.twopo{
+ align-items: center;
+ text-align: center;
+ justify-content: center;
+ // display: flex;
+ font-size: 150px;
+ color: whitesmoke
+}
+
+button{
+ padding: 10px 20px;
+ background: linear-gradient(to left, #df9dba 15%, #9e93dd 75%); border: none;
+ border-radius: 50px;
+ color: white;
+ cursor: pointer;
+ line-height: 1;
+ font-size: 13.5px;
+ transition: all 0.3s ease 0s;
+}
+
+button:hover{
+ background-color: yellow;
+}
+
+.cent{
+  justify-content: center;
+  align-items: center;
+}
+.cent{
+  justify-content: space-around;
+}
+
+.fl{
+  padding-left: 25px;
+}
+
+@media  screen and (max-width: 1024px) {
+.fl{
+  padding-left: 0px;
+}
+}
